@@ -17,6 +17,7 @@ const noMessages = [
     "I will be very sad... 😢",
     "Please??? 💔",
     "Don't do this to me...",
+    "Been Crushing on you for years 😭",
     "Last chance! Abeg 😭",
     "You can't catch me anyway 😜"
 ]
